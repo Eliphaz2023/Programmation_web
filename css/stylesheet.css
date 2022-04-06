@@ -166,7 +166,7 @@ div{
     float: left;
 }
 
-#pauza {
+#pause {
     float: left;
     width:100px;
     border: 2px solid white;
@@ -189,7 +189,7 @@ div{
     font-size: 20px;
 }
 
-#suicide {
+#fin {
     float: left;
     width:100px;
     border: 2px solid red;

@@ -161,3 +161,43 @@ div{
     letter-spacing: 0.2em;
     background: black;
 }
+
+#load {
+    float: left;
+}
+
+#pauza {
+    float: left;
+    width:100px;
+    border: 2px solid white;
+    background-color: white;
+    color: black;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+
+
+#levels {
+    float: left;
+    width:100px;
+    border: 2px solid white;
+    background-color: white;
+    color: black;
+    margin-left: 5px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+#suicide {
+    float: left;
+    width:100px;
+    border: 2px solid red;
+    background-color: red;
+    color: black;
+    margin-left: 5px;
+    font-family: fantasy;
+    font-size: 20px;
+
+}
+
